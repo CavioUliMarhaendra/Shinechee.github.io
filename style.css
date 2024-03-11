@@ -43,6 +43,7 @@ body {
   display: block;
   height: 32px;
   width: auto;
+  border-radius: 20px;
 }
 
 .logo img {
